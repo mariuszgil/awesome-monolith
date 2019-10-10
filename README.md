@@ -12,7 +12,7 @@ Here come some articles, links, and videos that describes how to build modular m
 - [Monolith First - Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html)
 - [Stefan Tilkov](https://martinfowler.com/articles/dont-start-monolith.html)
   
-# Pattern that supports mudularization
+# Pattern that supports modularization
   
 ## Hexagonal Architecture
 - [Hexagonal Architecture: What Is It and How Does It Work?](https://blog.ndepend.com/hexagonal-architecture/)
